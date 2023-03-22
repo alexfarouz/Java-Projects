@@ -1,0 +1,6 @@
+medicareRate 3.0
+socialSecurityIncomeLimit 200000
+socialSecurityRate 10
+adultBaseExemption 5000
+childBaseExemption 4000
+medianIncomePerCapita 35000
